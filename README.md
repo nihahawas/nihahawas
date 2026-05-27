@@ -101,8 +101,9 @@ public class NihaHawas {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihahawas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F85D7F&text_color=C9D1D9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihahawas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihahawas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F85D7F&text_color=C9D1D9&count_private=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihahawas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800"/>
 
 </div>
 
@@ -114,11 +115,14 @@ public class NihaHawas {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nihahawas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![](https://img.shields.io/badge/Repositories-14-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Stars_Earned-25+-F85D7F?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Contributions-154+-6DB33F?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Languages-7-ED8B00?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
