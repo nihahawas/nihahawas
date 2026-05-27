@@ -54,7 +54,7 @@ public class NihaHawas {
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="girl coding gif"/>
 
 </td>
 </tr>
@@ -120,15 +120,15 @@ public class NihaHawas {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihahawas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F85D7F&text_color=C9D1D9&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihahawas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihahawas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F85D7F&text_color=C9D1D9&count_private=true&cache_seconds=1800&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihahawas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nihahawas&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nihahawas&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=F85D7F&fire=F85D7F&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak"/>
 
 </div>
 
@@ -144,7 +144,7 @@ public class NihaHawas {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nihahawas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nihahawas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%"/>
 
 </div>
 
