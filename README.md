@@ -101,16 +101,16 @@ public class NihaHawas {
 
 <div align="center">
 
-| 🔥 Project | 💡 What it does | 🧰 Stack |
-|:---|:---|:---|
-| [🧠 Neural Network Classifier](https://github.com/nihahawas/neural-network-classifier) | Interactive ML web app — Single Layer NN & MLP with Backpropagation across 4 real-world scenarios | Python · NumPy · scikit-learn · Streamlit |
-| [💸 Expense Tracker](https://github.com/nihahawas/fullstack-expense-tracker) | Full-stack financial dashboard with auth, real-time tracking & secure sessions | Java · PostgreSQL · DAO Pattern |
-| [🔐 Web Login System](https://github.com/nihahawas/Web-Login-System) | Secure login/registration with Servlets, JSP, Hibernate & clean DAO architecture | Java · Servlets · JSP · PostgreSQL |
-| [📡 Socket Programming](https://github.com/nihahawas/Socket-Programming-Python) | TCP & UDP client-server communication demonstrating reliable & connectionless transmission | Python · Networking |
-| [📱 Bluetooth Chat App](https://github.com/nihahawas/bluetooth-chat-application) | Real-time Bluetooth chat for Android — messages & file transfer between devices | Kotlin · Android |
-| [🏨 Hotel Reservation System](https://github.com/nihahawas/CodeAlpha_Hotel_Reservation_System) | Backend system with room booking, payment checkout & REST API | Java · Spring Boot · MySQL |
-| [🌐 Campus Network Design](https://github.com/nihahawas/Campus-Network-Design-Cisco) | Full campus network with VLANs, DHCP, DNS, ACL & routing | Cisco Packet Tracer |
-| [🤖 AI Chatbot](https://github.com/nihahawas/CodeAlpha_AIChatbot) | AI-powered chatbot with Java Swing GUI — CodeAlpha Internship Project | Java · Swing |
+| # | 🔥 Project | 💡 What it does | 🧰 Stack | 🎬 Demo | ⭐ Star |
+|:---:|:---|:---|:---|:---:|:---:|
+| 01 | [🧠 Neural Network Classifier](https://github.com/nihahawas/neural-network-classifier) | Interactive ML web app — Single Layer NN & MLP with Backpropagation across 4 real-world scenarios | Python · NumPy · scikit-learn · Streamlit | [▶ Live](https://github.com/nihahawas/neural-network-classifier) | [⭐ Star](https://github.com/nihahawas/neural-network-classifier/stargazers) |
+| 02 | [💸 Expense Tracker](https://github.com/nihahawas/fullstack-expense-tracker) | Full-stack financial dashboard with auth, real-time tracking & secure sessions | Java · PostgreSQL · DAO Pattern | — | [⭐ Star](https://github.com/nihahawas/fullstack-expense-tracker/stargazers) |
+| 03 | [🔐 Web Login System](https://github.com/nihahawas/Web-Login-System) | Secure login/registration with Servlets, JSP, Hibernate & clean DAO architecture | Java · Servlets · JSP · PostgreSQL | — | [⭐ Star](https://github.com/nihahawas/Web-Login-System/stargazers) |
+| 04 | [📡 Socket Programming](https://github.com/nihahawas/Socket-Programming-Python) | TCP & UDP client-server communication demonstrating reliable & connectionless transmission | Python · Networking | — | [⭐ Star](https://github.com/nihahawas/Socket-Programming-Python/stargazers) |
+| 05 | [📱 Bluetooth Chat App](https://github.com/nihahawas/bluetooth-chat-application) | Real-time Bluetooth chat for Android — messages & file transfer between devices | Kotlin · Android | — | [⭐ Star](https://github.com/nihahawas/bluetooth-chat-application/stargazers) |
+| 06 | [🏨 Hotel Reservation System](https://github.com/nihahawas/CodeAlpha_Hotel_Reservation_System) | Backend system with room booking, payment checkout & REST API | Java · Spring Boot · MySQL | — | [⭐ Star](https://github.com/nihahawas/CodeAlpha_Hotel_Reservation_System/stargazers) |
+| 07 | [🌐 Campus Network Design](https://github.com/nihahawas/Campus-Network-Design-Cisco) | Full campus network with VLANs, DHCP, DNS, ACL & routing | Cisco Packet Tracer | — | [⭐ Star](https://github.com/nihahawas/Campus-Network-Design-Cisco/stargazers) |
+| 08 | [🤖 AI Chatbot](https://github.com/nihahawas/CodeAlpha_AIChatbot) | AI-powered chatbot with Java Swing GUI — CodeAlpha Internship Project | Java · Swing | — | [⭐ Star](https://github.com/nihahawas/CodeAlpha_AIChatbot/stargazers) |
 
 </div>
 
