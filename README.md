@@ -146,7 +146,9 @@ public class NihaHawas {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nihahawas&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7&row=2" width="100%"/>
+<a href="https://github.com/nihahawas">
+  <img src="https://github-profile-trophy.vercel.app/?username=nihahawas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" alt="nihahawas trophies"/>
+</a>
 
 </div>
 
