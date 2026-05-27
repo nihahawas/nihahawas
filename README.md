@@ -99,8 +99,6 @@ public class NihaHawas {
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <div align="center">
 
 | # | 🔥 Project | 💡 What it does | 🧰 Stack | 🎬 Demo | ⭐ Stars |
@@ -136,9 +134,9 @@ public class NihaHawas {
 
 ---
 
-<div align="center">
+## 📊 Contribution Graph
 
-<h2>📊 Contribution Graph</h2>
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihahawas&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true&title_color=58A6FF" width="100%"/>
 
