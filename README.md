@@ -134,9 +134,13 @@ public class NihaHawas {
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihahawas&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
+<h2>📊 Contribution Graph</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nihahawas&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true&title_color=58A6FF" width="100%"/>
 
 </div>
 
