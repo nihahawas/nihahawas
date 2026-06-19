@@ -32,7 +32,7 @@ public class NihaHawas {
     String    location  = "Pakistan 🇵🇰";
     String[]  building  = {"Full-Stack Java Apps", "Neural Networks", "Android Dev"};
     String[]  learning  = {"System Design", "Deep Learning", "Advanced DSA"};
-    String    funFact   = "I debug with coffee ☕ and ship with confidence 🚀";
+    String    funFact   = "I debug with tea ☕ and ship with confidence 🚀";
 
     String getMotivation() {
         return "Building scalable systems, one commit at a time. 💡";
