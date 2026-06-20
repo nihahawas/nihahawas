@@ -101,7 +101,7 @@ public class NihaHawas {
 
 <div align="center">
 
-| # | 🔥 Project | 💡 What it does | 🧰 Stack | 🎬 Demo | ⭐ Stars |
+| # | 🔥 Project | 💡 What it does | 🧰 Stack | 🎬Live Demo | ⭐ Stars |
 |:---:|:---|:---|:---|:---:|:---:|
 | 01 | [🧠 Neural Network Classifier](https://github.com/nihahawas/neural-network-classifier) | Interactive ML web app — Single Layer NN & MLP with Backpropagation across 4 real-world scenarios | Python · NumPy · scikit-learn · Streamlit | [▶ Live App](https://your-app.streamlit.app) | ![⭐](https://img.shields.io/github/stars/nihahawas/neural-network-classifier?style=flat-square&color=F85D7F) |
 | 02 | [💸 Expense Tracker](https://github.com/nihahawas/fullstack-expense-tracker) | Full-stack financial dashboard with auth, real-time tracking & secure sessions | Java · PostgreSQL · DAO Pattern | [📸 Screenshots](https://github.com/nihahawas/fullstack-expense-tracker#readme) | ![⭐](https://img.shields.io/github/stars/nihahawas/fullstack-expense-tracker?style=flat-square&color=F85D7F) |
