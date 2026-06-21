@@ -28,7 +28,7 @@
 ```java
 public class NihaHawas {
 
-    String[]  roles     = {"CS Student", "Backend Developer", "ML Explorer"};
+    String[]  roles     = {"CS Student", "Full-Stack Developer", "ML Explorer"};
     String    location  = "Pakistan 🇵🇰";
     String[]  building  = {"Full-Stack Java Apps", "Neural Networks", "Android Dev"};
     String[]  learning  = {"System Design", "Deep Learning", "Advanced DSA"};
