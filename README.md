@@ -183,7 +183,7 @@ public class NihaHawas {
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 <div align="center">
 
