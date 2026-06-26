@@ -142,17 +142,6 @@ public class NihaHawas {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/nihahawas">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihahawas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7" alt="nihahawas trophies"/>
-</a>
-
-</div>
 
 ---
 
