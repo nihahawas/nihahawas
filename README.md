@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Passionate about building practical software and continuously learning new technologies.
+Building practical software with Java, Python, and Machine Learning.
 </p>
 
 <p align="center">
@@ -30,41 +30,52 @@ Passionate about building practical software and continuously learning new techn
 
 - 🎓 BS Computer Science Student
 - 💻 Interested in Backend Development & Machine Learning
-- 🚀 Building projects with Java, Python, and AI
-- 🌱 Always learning and improving my skills
+- 🚀 Building real-world projects with Java and Python
+- 🌱 Always learning new technologies
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🧠 **Neural Network Classifier**  
-  Python • Streamlit • Scikit-learn  
-  🔗 https://github.com/nihahawas/neural-network-classifier
+### 🧠 Neural Network Classifier
+**Python • Streamlit • Scikit-learn**  
+🔗 https://github.com/nihahawas/neural-network-classifier
 
-- 💰 **Expense Tracker**  
-  Java • PostgreSQL  
-  🔗 https://github.com/nihahawas/fullstack-expense-tracker
+### 💰 Expense Tracker
+**Java • PostgreSQL**  
+🔗 https://github.com/nihahawas/fullstack-expense-tracker
 
-- 🔐 **Web Login System**  
-  Java • JSP • Hibernate  
-  🔗 https://github.com/nihahawas/Web-Login-System
+### 🔐 Web Login System
+**Java • JSP • Hibernate**  
+🔗 https://github.com/nihahawas/Web-Login-System
 
-- 🤖 **AI Chatbot**  
-  Java • Swing  
-  🔗 https://github.com/nihahawas/CodeAlpha_AIChatbot
+### 🤖 AI Chatbot
+**Java • Swing**  
+🔗 https://github.com/nihahawas/CodeAlpha_AIChatbot
 
-- 📱 **Bluetooth Chat Application**  
-  Kotlin • Android  
-  🔗 https://github.com/nihahawas/bluetooth-chat-application
+### 📱 Bluetooth Chat Application
+**Kotlin • Android**  
+🔗 https://github.com/nihahawas/bluetooth-chat-application
 
-- 🌐 **Campus Network Design**  
-  Cisco Packet Tracer  
-  🔗 https://github.com/nihahawas/Campus-Network-Design-Cisco
+### 🌐 Campus Network Design
+**Cisco Packet Tracer**  
+🔗 https://github.com/nihahawas/Campus-Network-Design-Cisco
+
+---
+
+## 📬 Contact
+
+📧 **Email:** nihahawasniha148@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/nihahawas45
+
+🌐 **Portfolio:** https://nihahawas.github.io/personal-portfolio-website/
+
+🐙 **GitHub:** https://github.com/nihahawas
 
 ---
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b>
+⭐ Thanks for visiting my profile!
 </p>
 ```
-**
