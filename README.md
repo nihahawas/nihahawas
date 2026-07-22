@@ -1,59 +1,95 @@
-<h1 align="center">Hi, I'm Niha Hawas 👋</h1>
-<p align="center">Computer Science Student · Backend Developer · Machine Learning Enthusiast</p>
+<h1 align="center">Hi 👋, I'm Niha Hawas</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nihahawas45">LinkedIn</a> ·
-  <a href="https://nihahawas.github.io/personal-portfolio-website/">Portfolio</a> ·
+Computer Science Student • Backend Developer • Machine Learning Enthusiast
+</p>
+
+<p align="center">
+Passionate about building practical software, intelligent applications, and continuously learning modern technologies.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nihahawas45">LinkedIn</a> •
+  <a href="https://nihahawas.github.io/personal-portfolio-website/">Portfolio</a> •
   <a href="mailto:nihahawasniha148@gmail.com">Email</a>
 </p>
 
-<br>
+---
 
-### About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science student focused on backend development and machine learning. I like building clean, scalable applications and solving real problems through code.
+- 🎓 BS Computer Science Student
+- 💻 Interested in Backend Development and Machine Learning
+- 🌱 Currently learning Spring Boot, Deep Learning, and System Design
+- 🚀 Building real-world projects with Java, Python, and AI
+- 🤝 Open to internships, collaborations, and learning opportunities
 
-**Currently exploring:** Spring Boot · REST APIs · Deep Learning · System Design · Docker
+---
 
-<br>
+## 🛠️ Tech Stack
 
-### Tech Stack
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Languages:** Java · Python · Kotlin · JavaScript · HTML/CSS · SQL (MySQL, PostgreSQL)
-**Frameworks:** Spring · Hibernate · Scikit-learn · Pandas · NumPy · Streamlit
-**Tools:** Git · GitHub · VS Code · IntelliJ IDEA · Android Studio · Linux
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-<br>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
-### Featured Projects
+---
 
-**[Neural Network Classifier](https://github.com/nihahawas/neural-network-classifier)**
-ML web app predicting outcomes with Single Layer and Multi-Layer Perceptron models, via an interactive Streamlit interface.
-`Python` `NumPy` `Scikit-learn` `Streamlit` — [Live Demo](https://neural-network-classifier.streamlit.app/)
+## 🚀 Featured Projects
 
-**[Fake News Detection](https://github.com/nihahawas)**
-ML app classifying news as real or fake using TF-IDF and Scikit-learn, with a Streamlit dashboard showing prediction confidence and influential words.
-`Python` `Scikit-learn` `NLTK` `Streamlit`
+| Project | Tech | Repository |
+|---------|------|------------|
+| 🧠 **Neural Network Classifier** | Python • NumPy • Scikit-learn • Streamlit | [View](https://github.com/nihahawas/neural-network-classifier) |
+| 💰 **Expense Tracker** | Java • PostgreSQL | [View](https://github.com/nihahawas/fullstack-expense-tracker) |
+| 🔐 **Web Login System** | Java • JSP • Hibernate | [View](https://github.com/nihahawas/Web-Login-System) |
+| 🤖 **AI Chatbot** | Java • Swing | [View](https://github.com/nihahawas/CodeAlpha_AIChatbot) |
+| 📱 **Bluetooth Chat Application** | Kotlin • Android | [View](https://github.com/nihahawas/bluetooth-chat-application) |
+| 🌐 **Campus Network Design** | Cisco Packet Tracer | [View](https://github.com/nihahawas/Campus-Network-Design-Cisco) |
 
-**[Full-Stack Expense Tracker](https://github.com/nihahawas/fullstack-expense-tracker)**
-Java application for managing personal expenses with secure authentication and PostgreSQL integration.
-`Java` `PostgreSQL` `JDBC`
+---
 
-**[Web Login System](https://github.com/nihahawas/Web-Login-System)**
-Secure authentication system with registration, login, session management, and database connectivity.
-`Java` `Servlets` `JSP` `Hibernate` `PostgreSQL`
+## 🌱 Currently Learning
 
-**[Campus Network Design](https://github.com/nihahawas/Campus-Network-Design-Cisco)**
-Enterprise-style campus network built in Cisco Packet Tracer, featuring VLANs, DHCP, DNS, routing, and ACLs.
-`Cisco Packet Tracer`
+- Spring Boot
+- Deep Learning
+- System Design
+- Docker
+- REST APIs
+- Advanced Data Structures & Algorithms
 
-<br>
+---
 
-### GitHub Stats
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/nihahawas45
+- 🌐 Portfolio: https://nihahawas.github.io/personal-portfolio-website/
+- 📧 Email: **nihahawasniha148@gmail.com**
+
+---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nihahawas&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihahawas&layout=compact&theme=github_dark&hide_border=true"/>
+⭐ Thanks for visiting my profile!
 </p>
-
-<p align="center"><i>Code with purpose. Learn continuously. Build things that matter.</i></p>
