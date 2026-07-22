@@ -1,7 +1,8 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Niha Hawas</h1>
 
 <p align="center">
-Computer Science Student • Backend Developer • Machine Learning Enthusiast
+  <strong>Computer Science Student • Backend Developer • Machine Learning Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -19,9 +20,9 @@ Passionate about building practical software, intelligent applications, and cont
 ## 👩‍💻 About Me
 
 - 🎓 BS Computer Science Student
-- 💻 Interested in Backend Development and Machine Learning
+- 💻 Passionate about Backend Development, Machine Learning, and Software Engineering
 - 🌱 Currently learning Spring Boot, Deep Learning, and System Design
-- 🚀 Building real-world projects with Java, Python, and AI
+- 🚀 Building real-world applications with Java, Python, and AI
 - 🤝 Open to internships, collaborations, and learning opportunities
 
 ---
@@ -29,6 +30,7 @@ Passionate about building practical software, intelligent applications, and cont
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -38,6 +40,7 @@ Passionate about building practical software, intelligent applications, and cont
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -46,6 +49,7 @@ Passionate about building practical software, intelligent applications, and cont
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -54,20 +58,69 @@ Passionate about building practical software, intelligent applications, and cont
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Tech | Repository |
-|---------|------|------------|
-| 🧠 **Neural Network Classifier** | Python • NumPy • Scikit-learn • Streamlit | [View](https://github.com/nihahawas/neural-network-classifier) |
-| 💰 **Expense Tracker** | Java • PostgreSQL | [View](https://github.com/nihahawas/fullstack-expense-tracker) |
-| 🔐 **Web Login System** | Java • JSP • Hibernate | [View](https://github.com/nihahawas/Web-Login-System) |
-| 🤖 **AI Chatbot** | Java • Swing | [View](https://github.com/nihahawas/CodeAlpha_AIChatbot) |
-| 📱 **Bluetooth Chat Application** | Kotlin • Android | [View](https://github.com/nihahawas/bluetooth-chat-application) |
-| 🌐 **Campus Network Design** | Cisco Packet Tracer | [View](https://github.com/nihahawas/Campus-Network-Design-Cisco) |
+### 🧠 Neural Network Classifier
+Machine Learning web application for intelligent predictions using Neural Networks.
+
+**Tech:** Python • NumPy • Scikit-learn • Streamlit
+
+🔗 **Repository:**  
+https://github.com/nihahawas/neural-network-classifier
+
+---
+
+### 💰 Expense Tracker
+A full-stack application for managing personal expenses securely.
+
+**Tech:** Java • PostgreSQL
+
+🔗 **Repository:**  
+https://github.com/nihahawas/fullstack-expense-tracker
+
+---
+
+### 🔐 Web Login System
+Secure authentication system with user registration and login.
+
+**Tech:** Java • JSP • Servlets • Hibernate
+
+🔗 **Repository:**  
+https://github.com/nihahawas/Web-Login-System
+
+---
+
+### 🤖 AI Chatbot
+Desktop chatbot developed during the CodeAlpha Internship.
+
+**Tech:** Java • Swing
+
+🔗 **Repository:**  
+https://github.com/nihahawas/CodeAlpha_AIChatbot
+
+---
+
+### 📱 Bluetooth Chat Application
+Android application for real-time Bluetooth messaging.
+
+**Tech:** Kotlin • Android
+
+🔗 **Repository:**  
+https://github.com/nihahawas/bluetooth-chat-application
+
+---
+
+### 🌐 Campus Network Design
+Enterprise network simulation with VLANs, DHCP, DNS, and Routing.
+
+**Tech:** Cisco Packet Tracer
+
+🔗 **Repository:**  
+https://github.com/nihahawas/Campus-Network-Design-Cisco
 
 ---
 
@@ -84,12 +137,13 @@ Passionate about building practical software, intelligent applications, and cont
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/nihahawas45
-- 🌐 Portfolio: https://nihahawas.github.io/personal-portfolio-website/
-- 📧 Email: **nihahawasniha148@gmail.com**
+- 💼 **LinkedIn:** https://linkedin.com/in/nihahawas45
+- 🌐 **Portfolio:** https://nihahawas.github.io/personal-portfolio-website/
+- 📧 **Email:** nihahawasniha148@gmail.com
 
 ---
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+```
