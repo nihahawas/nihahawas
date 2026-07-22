@@ -40,14 +40,14 @@ Building practical software with Java, Python, and Machine Learning.
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Repository |
+| Project | Tech | Links |
 | :--- | :--- | :---: |
-| 🧠 **Neural Network Classifier** | Python • Streamlit • Scikit-learn | [View](https://github.com/nihahawas/neural-network-classifier) |
-| 💰 **Expense Tracker** | Java • PostgreSQL | [View](https://github.com/nihahawas/fullstack-expense-tracker) |
-| 🔐 **Web Login System** | Java • JSP • Hibernate | [View](https://github.com/nihahawas/Web-Login-System) |
-| 🤖 **AI Chatbot** | Java • Swing | [View](https://github.com/nihahawas/CodeAlpha_AIChatbot) |
-| 📱 **Bluetooth Chat App** | Kotlin • Android | [View](https://github.com/nihahawas/bluetooth-chat-application) |
-| 🌐 **Campus Network Design** | Cisco Packet Tracer | [View](https://github.com/nihahawas/Campus-Network-Design-Cisco) |
+| 🧠 **[Neural Network Classifier](https://github.com/nihahawas/neural-network-classifier)** | Python • Streamlit | [Demo](https://YOUR-STREAMLIT-URL.streamlit.app/) · [Code](https://github.com/nihahawas/neural-network-classifier) |
+| 💰 **[Expense Tracker](https://github.com/nihahawas/fullstack-expense-tracker)** | Java • PostgreSQL | [Code](https://github.com/nihahawas/fullstack-expense-tracker) |
+| 🔐 **[Web Login System](https://github.com/nihahawas/Web-Login-System)** | Java • JSP | [Code](https://github.com/nihahawas/Web-Login-System) |
+| 🤖 **[AI Chatbot](https://github.com/nihahawas/CodeAlpha_AIChatbot)** | Java • Swing | [Code](https://github.com/nihahawas/CodeAlpha_AIChatbot) |
+| 📱 **[Bluetooth Chat App](https://github.com/nihahawas/bluetooth-chat-application)** | Kotlin • Android | [Code](https://github.com/nihahawas/bluetooth-chat-application) |
+| 🌐 **[Campus Network Design](https://github.com/nihahawas/Campus-Network-Design-Cisco)** | Cisco Packet Tracer | [Code](https://github.com/nihahawas/Campus-Network-Design-Cisco) |
 
 ---
 
