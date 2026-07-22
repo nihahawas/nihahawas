@@ -38,31 +38,18 @@ Building practical software with Java, Python, and Machine Learning.
 
 ---
 
+```markdown
 ## 🚀 Featured Projects
 
-### 🧠 Neural Network Classifier
-**Python • Streamlit • Scikit-learn**  
-🔗 https://github.com/nihahawas/neural-network-classifier
-
-### 💰 Expense Tracker
-**Java • PostgreSQL**  
-🔗 https://github.com/nihahawas/fullstack-expense-tracker
-
-### 🔐 Web Login System
-**Java • JSP • Hibernate**  
-🔗 https://github.com/nihahawas/Web-Login-System
-
-### 🤖 AI Chatbot
-**Java • Swing**  
-🔗 https://github.com/nihahawas/CodeAlpha_AIChatbot
-
-### 📱 Bluetooth Chat Application
-**Kotlin • Android**  
-🔗 https://github.com/nihahawas/bluetooth-chat-application
-
-### 🌐 Campus Network Design
-**Cisco Packet Tracer**  
-🔗 https://github.com/nihahawas/Campus-Network-Design-Cisco
+| Project | Tech Stack | Repository |
+|:---------|:-----------|:----------:|
+| 🧠 **Neural Network Classifier** | Python • Streamlit • Scikit-learn | [View](https://github.com/nihahawas/neural-network-classifier) |
+| 💰 **Expense Tracker** | Java • PostgreSQL | [View](https://github.com/nihahawas/fullstack-expense-tracker) |
+| 🔐 **Web Login System** | Java • JSP • Hibernate | [View](https://github.com/nihahawas/Web-Login-System) |
+| 🤖 **AI Chatbot** | Java • Swing | [View](https://github.com/nihahawas/CodeAlpha_AIChatbot) |
+| 📱 **Bluetooth Chat Application** | Kotlin • Android | [View](https://github.com/nihahawas/bluetooth-chat-application) |
+| 🌐 **Campus Network Design** | Cisco Packet Tracer | [View](https://github.com/nihahawas/Campus-Network-Design-Cisco) |
+```
 
 ---
 
