@@ -38,7 +38,7 @@ Building practical software with Java, Python, and Machine Learning.
 
 ---
 
-```markdown
+
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Repository |
@@ -49,7 +49,6 @@ Building practical software with Java, Python, and Machine Learning.
 | 🤖 **AI Chatbot** | Java • Swing | [View](https://github.com/nihahawas/CodeAlpha_AIChatbot) |
 | 📱 **Bluetooth Chat Application** | Kotlin • Android | [View](https://github.com/nihahawas/bluetooth-chat-application) |
 | 🌐 **Campus Network Design** | Cisco Packet Tracer | [View](https://github.com/nihahawas/Campus-Network-Design-Cisco) |
-```
 
 ---
 
