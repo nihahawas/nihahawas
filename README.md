@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋, I'm Niha Hawas</h3>
 
 <p align="center">
-Computer Science Student • Backend Developer • Machine Learning Enthusiast
+Computer Science Student • Full-Stack Developer • Machine Learning Enthusiast
 </p>
 
 <p align="center">
