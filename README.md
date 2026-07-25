@@ -1,4 +1,4 @@
-
+_
 <h3 align="center">Hi 👋, I'm Niha Hawas</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@ Computer Science Student • Full-Stack Developer • Machine Learning Enthusias
 </p>
 
 <p align="center">
-Building practical software with Java, Python, and Machine Learning.
+Building practical software with Java, Python, and AI/ML.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Building practical software with Java, Python, and Machine Learning.
 ## 👩‍💻 About Me
 
 - 🎓 BS Computer Science Student
-- 💻 Interested in Backend Development & Machine Learning
+- 💻 Interested in Full-Stack Development & AI/ML
 - 🚀 Building projects with Java, Python, and AI
 - 🌱 Always learning and improving
 
@@ -65,3 +65,4 @@ Building practical software with Java, Python, and Machine Learning.
 <i>Thanks for visiting! Feel free to connect or explore my projects.</i>
 </p>
 ```
+_
