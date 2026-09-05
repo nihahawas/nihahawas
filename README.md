@@ -19,7 +19,7 @@ Building practical software with Java, Python, and AI/ML.
   <a href="mailto:nihahawasniha148@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://nihahawas.github.io/nihahawas-portfolio">
+  <a href="https://nihahawas.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://codebyniha.hashnode.dev/">
