@@ -55,7 +55,7 @@ Building practical software with Java, Python, and AI/ML.
 
 - 💼 **LinkedIn:** https://linkedin.com/in/nihahawas45
 - 🐙 **GitHub:** https://github.com/nihahawas
-- 🌐 **Portfolio:** https://nihahawas.github.io/nihahawas-portfolio/
+- 🌐 **Portfolio:** https://nihahawas.github.io/
 - ✍️ **Hashnode:** https://codebyniha.hashnode.dev/
 - 📧 **Email:** nihahawasniha148@gmail.com
 
